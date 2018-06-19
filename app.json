@@ -1,0 +1,8 @@
+{
+  "name": "dreamhouse-disco",
+  "scripts": {
+  },
+  "description": "Interactive jukebox app to demo Heroku basics",
+  "repository": "https://github.com/heroku/dreamhouse-disco",
+  "logo": "https://github.com/heroku/dreamhouse-disco/raw/master/images/disco-chat-logo.png"
+}
